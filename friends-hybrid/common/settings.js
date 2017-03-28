@@ -2,8 +2,8 @@
 
 (function () {
     app.settings = {
-        appId: '${AppId}',
-        scheme: 'http', // possible values: http, https
+        appId: 'AppId',
+        scheme: 'https', // possible values: http, https
         social: {
             facebook: {
                 //check README.md
